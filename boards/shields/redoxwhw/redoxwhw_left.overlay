@@ -4,4 +4,4 @@
  * SPDX-License-Identifier: MIT
  */
 
-#include "redox.dtsi"
+#include "redoxwhw.dtsi"
